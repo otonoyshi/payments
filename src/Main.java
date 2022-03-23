@@ -3,5 +3,7 @@ public class Main {
         payment payment = new payment();
         System.out.println(payment.getPay());
         System.out.println("123");
+        System.out.println("231");
+
     }
 }
